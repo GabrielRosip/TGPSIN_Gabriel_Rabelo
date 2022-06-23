@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1654615719 source:c:\users\2221207\documents\psi-gabriel_rosip\projeto_2221207_gabriel_rosip_tgpsi-n\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"loginn.h"
+
+1654616486 c:\users\2221207\documents\psi-gabriel_rosip\projeto_2221207_gabriel_rosip_tgpsi-n\loginn.h
+	<locale.h>
+
+1655305600 source:d:\projeto_2221207_gabriel_rosip_tgpsi-n\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"loginn.h"
+	<time.h>
+	"pacientes_m.h"
+	"reg_pacientesE.h"
+
+1655304946 d:\projeto_2221207_gabriel_rosip_tgpsi-n\loginn.h
+	<locale.h>
+	<time.h>
+
+1655213248 d:\projeto_2221207_gabriel_rosip_tgpsi-n\pacientes_m.h
+	<locale.h>
+
+1655392854 d:\projeto_2221207_gabriel_rosip_tgpsi-n\reg_pacientese.h
+	<locale.h>
+
+1655825588 source:c:\users\2221207\documents\projeto_2221207_gabriel_rosip_tgpsi-n\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"loginn.h"
+	<time.h>
+	"pacientes_m.h"
+	"reg_pacientesE.h"
+
+1655819758 c:\users\2221207\documents\projeto_2221207_gabriel_rosip_tgpsi-n\loginn.h
+	<locale.h>
+	<time.h>
+
+1655822663 c:\users\2221207\documents\projeto_2221207_gabriel_rosip_tgpsi-n\pacientes_m.h
+	<locale.h>
+
+1655825588 c:\users\2221207\documents\projeto_2221207_gabriel_rosip_tgpsi-n\reg_pacientese.h
+	<locale.h>
+

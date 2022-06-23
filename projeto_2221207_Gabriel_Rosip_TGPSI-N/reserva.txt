@@ -1,0 +1,217 @@
+ for(i=0;i<a;i++)
+    {
+
+          if(k[i]==1)
+          {
+             printf("\n");
+               paciente=fopen("hospital.txt","a");
+               fprintf(paciente," _______________________________________\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|Nome:%s           |                   |\n",pacie[i].nomee);
+               fprintf(paciente,"|Idade:%i           |                   |\n",pacie[i].idade);
+               fprintf(paciente,"|Genero:%s           |                   |\n",pacie[i].genero);
+               fprintf(paciente,"|Doença:Covid       |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|___________________|___________________|\n");
+
+        fclose(paciente);
+
+             // printf("O %s de %i do genero %s tem Covid\n",pacie[i].nomee,pacie[i].idade,pacie[i].genero);
+          }
+          else if(k[i]==2)
+          {
+              printf("\n");
+               paciente=fopen("hospital.txt","a");
+               fprintf(paciente," _______________________________________\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|Nome:%s           |                   |\n",pacie[i].nomee);
+               fprintf(paciente,"|Idade:%i           |                   |\n",pacie[i].idade);
+               fprintf(paciente,"|Genero:%s           |                   |\n",pacie[i].genero);
+               fprintf(paciente,"|Doença:Gripe       |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|___________________|___________________|\n");
+
+        fclose(paciente);
+
+              //printf("O %s de %i do genero %s tem Gripe\n",pacie[i].nomee,pacie[i].idade,pacie[i].genero);
+          }
+          else if(k[i]==3)
+          {
+                            printf("\n");
+               paciente=fopen("hospital.txt","a");
+               fprintf(paciente," _______________________________________\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|Nome:%s           |                   |\n",pacie[i].nomee);
+               fprintf(paciente,"|Idade:%i           |                   |\n",pacie[i].idade);
+               fprintf(paciente,"|Genero:%s           |                   |\n",pacie[i].genero);
+               fprintf(paciente,"|Doença:SIDA        |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|___________________|___________________|\n");
+
+        fclose(paciente);
+
+          }
+          else if(k[i]==4)
+          {
+
+                            printf("\n");
+               paciente=fopen("hospital.txt","a");
+               fprintf(paciente," _______________________________________\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|Nome:%s           |                   |\n",pacie[i].nomee);
+               fprintf(paciente,"|Idade:%i           |                   |\n",pacie[i].idade);
+               fprintf(paciente,"|Genero:%s           |                   |\n",pacie[i].genero);
+               fprintf(paciente,"|Doença:Poliomielite|                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|___________________|___________________|\n");
+
+        fclose(paciente);
+          }
+          else if(k[i]==5)
+          {
+
+                            printf("\n");
+               paciente=fopen("hospital.txt","a");
+               fprintf(paciente," _______________________________________\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|Nome:%s           |                   |\n",pacie[i].nomee);
+               fprintf(paciente,"|Idade:%i           |                   |\n",pacie[i].idade);
+               fprintf(paciente,"|Genero:%s           |                   |\n",pacie[i].genero);
+               fprintf(paciente,"|Doença:Herpes      |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|___________________|___________________|\n");
+
+        fclose(paciente);
+          }
+          else if(k[i]==6)
+          {
+
+                            printf("\n");
+               paciente=fopen("hospital.txt","a");
+               fprintf(paciente," _______________________________________\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|Nome:%s           |                   |\n",pacie[i].nomee);
+               fprintf(paciente,"|Idade:%i           |                   |\n",pacie[i].idade);
+               fprintf(paciente,"|Genero:%s           |                   |\n",pacie[i].genero);
+               fprintf(paciente,"|Doença:HPV         |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|___________________|___________________|\n");
+
+        fclose(paciente);
+          }
+          else if(k[i]==7)
+          {
+
+                            printf("\n");
+               paciente=fopen("hospital.txt","a");
+               fprintf(paciente," _______________________________________\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|Nome:%s           |                   |\n",pacie[i].nomee);
+               fprintf(paciente,"|Idade:%i           |                   |\n",pacie[i].idade);
+               fprintf(paciente,"|Genero:%s           |                   |\n",pacie[i].genero);
+               fprintf(paciente,"|Doença:Catapora    |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|___________________|___________________|\n");
+
+        fclose(paciente);
+          }
+          else if(k[i]==8)
+          {
+
+                            printf("\n");
+               paciente=fopen("hospital.txt","a");
+               fprintf(paciente," _______________________________________\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|Nome:%s           |                   |\n",pacie[i].nomee);
+               fprintf(paciente,"|Idade:%i           |                   |\n",pacie[i].idade);
+               fprintf(paciente,"|Genero:%s           |                   |\n",pacie[i].genero);
+               fprintf(paciente,"|Doença:Caxumba     |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|___________________|___________________|\n");
+
+        fclose(paciente);
+          }
+          else if(k[i]==9)
+          {
+
+                            printf("\n");
+               paciente=fopen("hospital.txt","a");
+               fprintf(paciente," _______________________________________\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|Nome:%s           |                   |\n",pacie[i].nomee);
+               fprintf(paciente,"|Idade:%i           |                   |\n",pacie[i].idade);
+               fprintf(paciente,"|Genero:%s           |                   |\n",pacie[i].genero);
+               fprintf(paciente,"|Doença:Variola     |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|___________________|___________________|\n");
+
+        fclose(paciente);
+          }
+          else if(k[i]==10)
+          {
+                      printf("\n");
+               paciente=fopen("hospital.txt","a");
+               fprintf(paciente," _______________________________________\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|Nome:%s           |                   |\n",pacie[i].nomee);
+               fprintf(paciente,"|Idade:%i           |                   |\n",pacie[i].idade);
+               fprintf(paciente,"|Genero:%s           |                   |\n",pacie[i].genero);
+               fprintf(paciente,"|Doença:Ebola       |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|                   |                   |\n");
+               fprintf(paciente,"|___________________|___________________|\n");
+
+        fclose(paciente);
+          }
+
+
+          }
